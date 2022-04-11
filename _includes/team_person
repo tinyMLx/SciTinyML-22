@@ -1,0 +1,15 @@
+{% assign person = include.person %}
+<div class="grid-container-team">
+    <div class="grid-child">
+      <img alt="{{ person.name }}" class="card-img img-thumbnail" src="{{ site.baseurl }}{{ person.image_url }}" style="max-height: 15rem; width: auto;">
+    </div>
+    <div class="grid-child">
+        <b>{{ person.name }}</b><br>
+        {% if person.role %}<b>{{ person.role }}</b><br>{% endif %}
+        {{ person.affiliation.role }}, <a href="{{ person.affiliation.url }}"><i>{{ person.affiliation.org_name }}</i></a><br>
+        {% if person.affiliation2 %}
+            {{ person.affiliation2.role }}, <a href="{{ person.affiliation2.url }}"><i>{{ person.affiliation2.org_name }}</i></a><br>
+        {% endif %}
+        <a href="{{ person.website.url }}">{{ person.website.title }}</a><br>
+    </div> 
+</div>

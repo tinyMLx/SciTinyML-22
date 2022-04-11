@@ -1,0 +1,37 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+aside {
+    background-color: #eec3df;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.125rem;
+}
+
+aside a,
+aside a:hover,
+aside button[data-toggle=collapse],
+aside button[data-toggle=collapse]:hover {
+    background-color: inherit;
+    border-color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 1);
+}
+
+aside button[data-toggle=modal],
+aside button[data-toggle=modal]:hover {
+    color: rgba(0, 0, 0, 1);
+}
+
+aside button[data-toggle=collapse]:hover {
+    border-color: rgba(0, 0, 0, 1);
+}
+
+aside button[data-toggle=collapse]:not(.collapsed) {
+    background-color: rgba(0, 0, 0, 1);
+    color: $link-color;
+}
+
+aside hr {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

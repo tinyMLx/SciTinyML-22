@@ -1,0 +1,283 @@
+@import "jekyll-theme-crestlex";
+
+// Root em
+html {
+    font-size: 16px;
+}
+
+// So that main's height doesn't grow to fill viewport, which breaks addition of margin-bottom for last headings
+body > div.container-fluid > div.row {
+    align-items: flex-start;
+}
+
+body {
+    font-family: "Roboto";
+}
+
+// Crimson background, transparent text
+aside {
+    background-color: #000000;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.125rem;
+}
+
+// No borders
+aside {
+    h1, h2, .h1, .h2 {
+        border-bottom: 0;
+    }
+}
+
+// Compact lists
+aside {
+    li:first-child, li + li {
+        margin-top: 0;
+    }
+}
+
+// Override column's padding
+aside.col-md {
+    padding: 2rem 2rem;
+}
+
+// Fixed width, scroll on larger devices
+@include media-breakpoint-up(md) {
+    @media screen {
+        aside.col-md {
+            flex: 0 1 20rem;
+            overflow-y: auto;
+            position: sticky;
+            z-index: $zindex-sticky - 1;	
+        }
+    }
+}
+
+// Opaque text
+aside a,
+aside a:hover,
+aside button[data-toggle=collapse],
+aside button[data-toggle=collapse]:hover {
+    background-color: inherit;
+    border-color: rgba(255, 255, 255, .5);
+    color: rgba(255, 255, 255, 1);
+}
+aside button[data-toggle=modal],
+aside button[data-toggle=modal]:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+// Opaque border
+aside button[data-toggle=collapse]:hover {
+    border-color: rgba(255, 255, 255, 1);
+}
+
+// Invert colors when not collapsed
+aside button[data-toggle=collapse]:not(.collapsed) {
+    background-color: rgba(255, 255, 255, 1);
+    color: $link-color;
+}
+
+aside hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+// Compact small paragraphs
+aside p.small {
+    line-height: 1.25;
+}
+
+// Left-align menu
+aside .fa-ul {
+    margin-left: 0;
+}
+
+// Separate buttons from header and nav
+aside button[data-toggle=collapse],
+aside button[data-toggle=modal] {
+    margin-top: 1.25rem; // 0.25rem more than p tag, since button's text has 0.25rem padding
+}
+
+// Title
+header {
+    h1, .h1 {
+        font-size: 2.5rem;
+        margin-bottom: .5rem;
+        padding-bottom: 0;
+    }
+    h2, .h2 {
+        font-size: 1.25rem;
+        font-weight: normal;
+        padding-top: 0;
+    }
+}
+
+// Separate nav button (or header) and footer, applying margins to children to avoid flicker when uncollapsing
+nav > *:first-child {
+    margin-top: 1rem;
+}
+
+// Truncate list items
+nav ol li, nav ul li {
+    @include text-truncate;
+}
+
+// Left-align ordered lists
+nav ol {
+    list-style-position: inside;
+    padding-left: 0;
+}
+nav ol li {
+    padding-left: 0;
+}
+
+// Left-align unordered lists, without bullets
+nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+// Preserve bullets for nested unordered lists
+nav ul ul {
+    list-style: inside;
+}
+
+// Separate footer from nav unless empty
+footer {
+    margin-top: 1rem;
+}
+footer:empty {
+    margin-top: 0;
+}
+
+// Messages
+//
+// Show alert messages to users. You may add it to single elements like a `<p>`,
+// or to a parent if there are multiple elements to show.
+
+.message {
+    background-color: #efefef;
+    color: #1a1a1a;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+
+// LINK COLOR
+main a {
+    color:#268bd2;
+    font-family: "Roboto";
+}
+
+// Override column's padding, width
+main.col-md {
+    max-width: 80rem;
+    overflow: auto; // https://stackoverflow.com/a/26523355
+    padding: 4rem 2rem;
+}
+
+// Offsets for headings when there's an alert
+main a[data-id][id] {
+    display: block;
+    position: relative;
+    visibility: hidden;
+}
+
+// Align bullets with those outside alert
+main .alert .fa-ul {
+    margin-left: 1.25em;
+}
+
+// Don't number search results
+#search ol {
+    list-style-type: none;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+// On small devices and printers
+// https://getbootstrap.com/docs/4.5/layout/overview/#responsive-breakpoints
+@media (max-width: 767.98px), print {
+
+    // Don't shrink fonts as much
+    small, .small {
+        font-size: 90%;
+    }
+
+    // Less padding
+    main.col-md {
+        padding: 2rem 2rem;
+    }
+}
+
+// Also on printers
+@media print {
+
+    // Hide alert
+    #alert {
+        display: none !important;
+    }
+
+    // Hide search
+    #search, [data-search] {
+        display: none !important;
+    }
+
+    // Display links' URLs
+    a[href^='http']:after {
+        content: ' (' attr(href) ')';
+        word-break: break-word;
+    }
+
+    // Move aside above main
+    aside.col-md {
+        flex: unset;
+        height: auto !important; // To override JavaScript
+    }
+
+    // Hide button above nav
+    aside button[data-toggle=collapse] {
+        display: none;
+    }
+
+    // Only show header
+    nav.collapse:not(.show), footer {
+        display: none !important;
+    }
+}
+
+
+aside {
+    background-color: #49c6d1;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.125rem;
+}
+
+aside a,
+aside a:hover,
+aside button[data-toggle=collapse],
+aside button[data-toggle=collapse]:hover {
+    background-color: inherit;
+    border-color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 1);
+}
+
+aside button[data-toggle=modal],
+aside button[data-toggle=modal]:hover {
+    color: rgba(0, 0, 0, 1);
+}
+
+aside button[data-toggle=collapse]:hover {
+    border-color: rgba(0, 0, 0, 1);
+}
+
+aside button[data-toggle=collapse]:not(.collapsed) {
+    background-color: rgba(0, 0, 0, 1);
+    color: $link-color;
+}
+
+aside hr {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+alert alert-dismissible alert-success {
+    background-color: #FFFFF;
+}

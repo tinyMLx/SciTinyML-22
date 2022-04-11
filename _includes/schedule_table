@@ -1,0 +1,38 @@
+{% if include.table_data %}
+<table>
+  <thead>
+    <tr>
+      {% for header in include.table_data.headers %}
+      <th>{{ header }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for day in include.table_data.days %}
+    <tr>
+      <td>Day {{ day.number }}</td>
+      <td>{{ day.dayOfWeek }}</td>
+      <td><b>{{ day.name }}</b><br>
+        {% for item in day.schedule %}
+        &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">{{ item.time }}</i>&nbsp; {{ item.name }}<br>
+        {% endfor %}
+      </td>
+      <td>
+        {% for speaker in day.speakers %}
+          <div>
+            {% if speaker.website %}<a href="{{ speaker.website }}">{% endif %}{{ speaker.name }}{% if speaker.website %}</a>{% endif %}
+            of {% if speaker.affiliation.website %}<a href="{{ speaker.affiliation.website }}">{% endif %}{{ speaker.affiliation.name }}{% if speaker.affiliation.website %}</a>{% endif %}<br>
+            {% for link in speaker.links %}
+              <a href="{% if link.local %}{{ site.baseurl }}{% endif %}{{ link.url }}">{{ link.title }}</a>{% if forloop.last == false %} | {% endif %}
+            {% endfor %}
+          </div>
+          {% if forloop.last == false %}
+          <hr style="height:3px;"/>
+          {% endif %}
+        {% endfor %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endif %}

@@ -1,0 +1,14 @@
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: dhilanr/jekyll-theme-crestlex
+
+url: https://tinyml.seas.harvard.edu
+baseurl: /SciTinyML-22
+
+title: SciTinyML 2022
+
+alert:
+    - success

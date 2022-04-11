@@ -1,0 +1,194 @@
+headers:
+ - Day
+ - Date
+ - Topics
+ - Speakers
+
+days:
+  - number: "1"
+    dayOfWeek: "Monday"
+    name: "Introduction to Embedded ML (tinyML)"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "Conference Opening and Schedule"
+      - time: "1:20:00 PM"
+        name: "Keynote - Vijay Janpa Reddi"
+      - time: "2:00:00 PM"
+        name: "Introduction to Machine Learning"
+      - time: "3:15:00 PM"
+        name: "Keynote - TBD"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
+    speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+        links:
+          # - title: "Slides"
+          #   url: "/assets/slides/TBD.pdf"
+          #   local: "1"
+          # - title: "Video"
+          #   url: "http://www.TBD.com"
+      - name: "Vijay Janapa Reddi"
+        website: "https://scholar.harvard.edu/vijay-janapa-reddi/home"
+        affiliation:
+          name: "Harvard University"
+          website: "https://www.seas.harvard.edu/"
+      - name: "Michael Perkins"
+        website: "https://www.linkedin.com/in/mike-perk-perkins"
+        affiliation:
+          name: "CMU-Africa"
+          website: "https://www.africa.engineering.cmu.edu/index.html"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+
+  - number: "2"
+    dayOfWeek: "Tuesday"
+    name: "Hands-on Embedded ML - Anomaly Detection with Edge Impulse"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Introduction to Edge Impulse"
+      - time: "1:20:00 PM"
+        name: "Connecting the TinyML Kit and Edge Impulse"
+      - time: "1:35:00 PM"
+        name: "Supervised Learning and Motion Classification"
+      - time: "1:50:00 PM"
+        name: "Hands-on Motion Classification"
+      - time: "2:35:00 PM"
+        name: "Unsupervised Learning and Anomaly Detection"
+      - time: "2:50:00 PM"
+        name: "Hands-on Anomaly Detection"
+      - time: "3:35:00 PM"
+        name: "Conclusion and Q&A"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
+    speakers:
+      - name: "Marcelo Rovai"
+        website: "https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/"
+        affiliation:
+          name: "UNIFEI"
+          website: "https://unifei.edu.br/"
+      - name: "Shawn Hymel"
+        website: "https://www.linkedin.com/in/shawnhymel"
+        affiliation:
+          name: "Edge Impulse"
+          website: "https://www.edgeimpulse.com/"
+  
+  - number: "3"
+    dayOfWeek: "Wednesday"
+    name: "Applications of TinyML with Hands-on Computer Vision"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Sensors for IoT and TinyML"
+      - time: "1:40:00 PM"
+        name: "Theory and Hands-on Image Classification"
+      - time: "2:55:00 PM"
+        name: "TBD Application Case Study"
+      - time: "3:25:00 PM"
+        name: "TBD Application Case Study"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
+    speakers:
+      - name: "Sebastian Büttrich"
+        website: "https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html"
+        affiliation:
+          name: "IT University of Copenhagen"
+          website: "https://en.itu.dk/"
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Harvard University"
+          website: "https://www.seas.harvard.edu/"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+
+  - number: "4"
+    dayOfWeek: "Thursday"
+    name: "Hands-on Key Word Spotting and Ethical TinyML"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "Theory and Hands-on Keyword Spotting"
+      - time: "2:35:00 PM"
+        name: "TBD Application Case Study"
+      - time: "3:00:00 PM"
+        name: "TinyML Ethics"
+      - time: "3:55:00 PM"
+        name: "Day Closing"
+    speakers:
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Harvard University"
+          website: "https://www.seas.harvard.edu/"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+      - name: "Susan Kennedy"
+        website: "https://www.susan-kennedy.com/"
+        affiliation:
+          name: "Santa Clara University"
+          website: "https://www.scu.edu/"
+
+  - number: "5"
+    dayOfWeek: "Friday"
+    name: "Applications of TinyML for Africa"
+    schedule:
+      - time: "1:00:00 PM"
+        name: "Day Opening"
+      - time: "1:05:00 PM"
+        name: "UNESCO and Disaster Response"
+      - time: "1:35:00 PM"
+        name: "TBD Application Case Study"
+      - time: "2:05:00 PM"
+        name: "TBD Application Case Study"
+      - time: "2:35:00 PM"
+        name: "TinyML Research in Africa"
+      - time: "3:45:00 PM"
+        name: "Workshop Closing"
+    speakers:
+      - name: "Soichiro Yasukawa"
+        website: "https://fr.linkedin.com/in/soichiro-yasukawa-87a377a8"
+        affiliation:
+          name: "UNESCO"
+          website: "https://www.unesco.org"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
