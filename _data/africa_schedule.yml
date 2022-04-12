@@ -16,7 +16,7 @@ days:
       - time: "2:00:00 PM"
         name: "Introduction to Machine Learning"
       - time: "3:15:00 PM"
-        name: "Keynote - TBD"
+        name: "Keynote - Kate Kallot"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -41,11 +41,11 @@ days:
         affiliation:
           name: "CMU-Africa"
           website: "https://www.africa.engineering.cmu.edu/index.html"
-      - name: "TBD"
-        # website: "TBD"
+      - name: "Kate Kallot"
+        website: "https://www.linkedin.com/in/kathleen-kallot"
         affiliation:
-          name: "TBD"
-        #   website: "TBD"
+          name: "NVIDIA"
+          website: "https://nvidia.com/"
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -83,14 +83,16 @@ days:
   
   - number: "3"
     dayOfWeek: "Wednesday"
-    name: "Applications of TinyML with Hands-on Computer Vision"
+    name: "Applications of TinyML for Africa"
     schedule:
       - time: "1:00:00 PM"
         name: "Day Opening"
       - time: "1:05:00 PM"
         name: "Sensors for IoT and TinyML"
       - time: "1:40:00 PM"
-        name: "Theory and Hands-on Image Classification"
+        name: "TBD Application Case Study"
+      - time: "2:25:00 PM"
+        name: "TBD Application Case Study"
       - time: "2:55:00 PM"
         name: "TBD Application Case Study"
       - time: "3:25:00 PM"
@@ -103,11 +105,16 @@ days:
         affiliation:
           name: "IT University of Copenhagen"
           website: "https://en.itu.dk/"
-      - name: "Brian Plancher"
-        website: "https://brianplancher.com/"
+      - name: "TBD"
+        # website: "TBD"
         affiliation:
-          name: "Harvard University"
-          website: "https://www.seas.harvard.edu/"
+          name: "TBD"
+        #   website: "TBD"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
       - name: "TBD"
         # website: "TBD"
         affiliation:
@@ -127,8 +134,6 @@ days:
         name: "Day Opening"
       - time: "1:05:00 PM"
         name: "Theory and Hands-on Keyword Spotting"
-      - time: "2:35:00 PM"
-        name: "TBD Application Case Study"
       - time: "3:00:00 PM"
         name: "TinyML Ethics"
       - time: "3:55:00 PM"
@@ -139,11 +144,9 @@ days:
         affiliation:
           name: "Harvard University"
           website: "https://www.seas.harvard.edu/"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-        #   website: "TBD"
+        affiliation2:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
       - name: "Susan Kennedy"
         website: "https://www.susan-kennedy.com/"
         affiliation:
@@ -152,7 +155,7 @@ days:
 
   - number: "5"
     dayOfWeek: "Friday"
-    name: "Applications of TinyML for Africa"
+    name: "Applications of TinyML for Africa Part 2"
     schedule:
       - time: "1:00:00 PM"
         name: "Day Opening"
