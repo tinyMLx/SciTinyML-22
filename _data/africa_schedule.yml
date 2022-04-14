@@ -2,7 +2,7 @@ headers:
  - Day
  - Date
  - Topics
- - Speakers
+ - Speakers and Materials
 
 days:
   - number: "1"
@@ -29,6 +29,7 @@ days:
           # - title: "Slides"
           #   url: "/assets/slides/TBD.pdf"
           #   local: "1"
+          #   related_to_next: "1"
           # - title: "Video"
           #   url: "http://www.TBD.com"
       - name: "Vijay Janapa Reddi"
@@ -80,6 +81,13 @@ days:
         affiliation:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
+      - links:
+          - title: "Set Up and Motion Detection Slides"
+            url: "/assets/slides/01_SciTinyML_Africa_Regional_Workshop_EI_Setup_Motion_Detection.pdf"
+            local: "1"
+          - title: "Anomaly Detection and Post-Processing Slides"
+            url: "/assets/slides/02_SciTinyML_Africa_Regional_Workshop_Anomaly_Detection_Post_Processing.pdf"
+            local: "1"
   
   - number: "3"
     dayOfWeek: "Wednesday"

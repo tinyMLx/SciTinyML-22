@@ -1,0 +1,4 @@
+{% if include.speaker %}
+{% assign speaker = include.speaker %}
+{% if speaker.website %}<a href="{{ speaker.website }}">{% endif %}{{ speaker.name }}{% if speaker.website %}</a>{% endif %} of {% if speaker.affiliation.website %}<a href="{{ speaker.affiliation.website }}">{% endif %}{{ speaker.affiliation.name }}{% if speaker.affiliation.website %}</a>{% endif %}{% if speaker.affiliation2 %} and <br/>{% if speaker.affiliation2.website %}<a href="{{ speaker.affiliation2.website }}">{% endif %}{{ speaker.affiliation2.name }}{% if speaker.affiliation2.website %}</a>{% endif %}{% endif %}
+{% endif %}
