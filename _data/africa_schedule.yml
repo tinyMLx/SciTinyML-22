@@ -98,9 +98,7 @@ days:
       - time: "1:05:00 PM"
         name: "Sensors for IoT and TinyML"
       - time: "1:40:00 PM"
-        name: "TBD Application Case Study"
-      - time: "2:25:00 PM"
-        name: "TBD Application Case Study"
+        name: "Convolutions for Hands-on Computer Vision"
       - time: "2:55:00 PM"
         name: "TBD Application Case Study"
       - time: "3:25:00 PM"
@@ -113,16 +111,14 @@ days:
         affiliation:
           name: "IT University of Copenhagen"
           website: "https://en.itu.dk/"
-      - name: "TBD"
-        # website: "TBD"
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
         affiliation:
-          name: "TBD"
-        #   website: "TBD"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-        #   website: "TBD"
+          name: "Harvard University"
+          website: "https://www.seas.harvard.edu/"
+        affiliation2:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
       - name: "TBD"
         # website: "TBD"
         affiliation:
@@ -141,7 +137,9 @@ days:
       - time: "1:00:00 PM"
         name: "Day Opening"
       - time: "1:05:00 PM"
-        name: "Theory and Hands-on Keyword Spotting"
+        name: "Data Pre-Processing for Hands-on Keyword Spotting"
+      - time: "2:20:00 PM"
+        name: "TBD Application Cas Study"
       - time: "3:00:00 PM"
         name: "TinyML Ethics"
       - time: "3:55:00 PM"
@@ -155,6 +153,11 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+      - name: "TBD"
+        # website: "TBD"
+        affiliation:
+          name: "TBD"
+        #   website: "TBD"
       - name: "Susan Kennedy"
         website: "https://www.susan-kennedy.com/"
         affiliation:
