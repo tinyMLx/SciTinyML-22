@@ -97,8 +97,8 @@ days:
         name: "Day Opening"
       - time: "1:05:00 PM"
         name: "Convolutions for Hands-on Computer Vision"
-      - time: "2:35:00 PM"
-        name: "Sensors for IoT and TinyML"
+      - time: "2:40:00 PM"
+        name: "TBD Application Case Study"
       - time: "3:05:00 PM"
         name: "TBD Application Case Study"
       - time: "3:30:00 PM"
@@ -114,11 +114,11 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      - name: "Sebastian Büttrich"
-        website: "https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html"
+      - name: "TBD"
+        # website: "TBD"
         affiliation:
-          name: "IT University of Copenhagen"
-          website: "https://en.itu.dk/"
+          name: "TBD"
+        #   website: "TBD"
       - name: "TBD"
         # website: "TBD"
         affiliation:
