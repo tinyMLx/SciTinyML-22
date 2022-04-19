@@ -91,14 +91,14 @@ days:
   
   - number: "3"
     dayOfWeek: "Wednesday"
-    name: "Applications of TinyML for Africa"
+    name: "Hands-on Computer Vision and Applications of TinyML"
     schedule:
       - time: "1:00:00 PM"
         name: "Day Opening"
       - time: "1:05:00 PM"
-        name: "Sensors for IoT and TinyML"
-      - time: "1:35:00 PM"
         name: "Convolutions for Hands-on Computer Vision"
+      - time: "2:35:00 PM"
+        name: "Sensors for IoT and TinyML"
       - time: "3:05:00 PM"
         name: "TBD Application Case Study"
       - time: "3:30:00 PM"
@@ -106,11 +106,6 @@ days:
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
-      - name: "Sebastian Büttrich"
-        website: "https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html"
-        affiliation:
-          name: "IT University of Copenhagen"
-          website: "https://en.itu.dk/"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
@@ -119,6 +114,11 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+      - name: "Sebastian Büttrich"
+        website: "https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html"
+        affiliation:
+          name: "IT University of Copenhagen"
+          website: "https://en.itu.dk/"
       - name: "TBD"
         # website: "TBD"
         affiliation:
@@ -173,7 +173,7 @@ days:
 
   - number: "5"
     dayOfWeek: "Friday"
-    name: "Applications of TinyML for Africa Part 2"
+    name: "Applications of TinyML for Africa"
     schedule:
       - time: "1:00:00 PM"
         name: "Day Opening"
