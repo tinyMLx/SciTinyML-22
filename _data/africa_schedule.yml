@@ -97,13 +97,11 @@ days:
         name: "Day Opening"
       - time: "1:05:00 PM"
         name: "Convolutions for Hands-on Computer Vision"
-      - time: "2:40:00 PM"
+      - time: "2:50:00 PM"
         name: "TBD Application Case Study"
-      - time: "3:05:00 PM"
+      - time: "3:20:00 PM"
         name: "TBD Application Case Study"
-      - time: "3:30:00 PM"
-        name: "TBD Application Case Study"
-      - time: "3:55:00 PM"
+      - time: "3:50:00 PM"
         name: "Day Closing"
     speakers:
       - name: "Brian Plancher"
@@ -114,11 +112,6 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-        #   website: "TBD"
       - name: "TBD"
         # website: "TBD"
         affiliation:
@@ -138,13 +131,11 @@ days:
         name: "Day Opening"
       - time: "1:05:00 PM"
         name: "Data Pre-Processing for Hands-on Keyword Spotting"
-      - time: "2:10:00 PM"
-        name: "TBD Application Cas Study"
-      - time: "2:35:00 PM"
-        name: "TBD Application Cas Study"
-      - time: "3:00:00 PM"
+      - time: "2:15:00 PM"
+        name: "Anti Poaching with TinyML"
+      - time: "2:45:00 PM"
         name: "TinyML Ethics"
-      - time: "3:55:00 PM"
+      - time: "3:50:00 PM"
         name: "Day Closing"
     speakers:
       - name: "Brian Plancher"
@@ -155,16 +146,13 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      - name: "TBD"
-        # website: "TBD"
+      - name: "Maedin Seid"
+        website: "https://et.linkedin.com/in/maedin-seid-1b500a138"
+        name2: "Betemariam Assamnew"
+        # website2:
         affiliation:
-          name: "TBD"
-        #   website: "TBD"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-        #   website: "TBD"
+          name: "Addis Ababa University"
+          website: "http://www.aau.edu.et/"
       - name: "Susan Kennedy"
         website: "https://www.susan-kennedy.com/"
         affiliation:

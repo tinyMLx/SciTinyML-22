@@ -19,7 +19,7 @@
       </td>
       <td>
         {% for speaker in day.speakers %}
-          <div>
+          <div style="max-width:350px;">
             {% if speaker.name %}
               {% include speaker speaker = speaker %}<br>
               {% for link in speaker.links %}
