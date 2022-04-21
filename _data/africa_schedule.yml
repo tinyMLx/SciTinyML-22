@@ -191,10 +191,10 @@ days:
           name: "Edge Impulse"
           website: "https://edgeimpulse.com/"
       - name: "Steve Chan"
-        website: "https://site.ieee.org/ucw/speakers/speaker-steve-chan/"
+        website: "https://stevechanieee.github.io/stevechan_profile.html"
         affiliation:
-          name: "Government Resiliency Project"
-        #   website: "TBD"
+          name: "Vit Tall Healthcare Analytics & Informatics"
+          website: "https://vthealthcareinformatics.com/"
       - name: "Peter Ing"
         website: "https://za.linkedin.com/in/peter-ing-8baba8143"
         affiliation:
