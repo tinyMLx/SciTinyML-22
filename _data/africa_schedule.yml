@@ -153,6 +153,13 @@ days:
         affiliation:
           name: "Addis Ababa University"
           website: "http://www.aau.edu.et/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Case_Study_Anti_Poaching_Slides.pdf"
+            local: "1"
+          - title: "Project Description"
+            url: "/assets/slides/Case_Study_Anti_Poaching_Project_Description.pdf"
+            local: "1"
       - name: "Susan Kennedy"
         website: "https://www.susan-kennedy.com/"
         affiliation:
