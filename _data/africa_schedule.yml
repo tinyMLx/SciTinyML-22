@@ -170,8 +170,12 @@ days:
       - time: "1:35:00 PM"
         name: "ITU AI/ML in 5G Challenge"
       - time: "1:50:00 PM"
+        name: "Detecting Powerline Noise with Low-Cost Noise Sensors"
+      - time: "2:20:00 PM"
+        name: "Wildfire Detection"
+      - time: "2:50:00 PM"
         name: "AI Africa Consortium"
-      - time: "2:05:00 PM"
+      - time: "3:05:00 PM"
         name: "TinyML Research in Africa"
       - time: "3:45:00 PM"
         name: "Workshop Closing"
@@ -186,16 +190,21 @@ days:
         affiliation:
           name: "Edge Impulse"
           website: "https://edgeimpulse.com/"
+      - name: "Steve Chan"
+        website: "https://site.ieee.org/ucw/speakers/speaker-steve-chan/"
+        affiliation:
+          name: "Government Resiliency Project"
+        #   website: "TBD"
+      - name: "Peter Ing"
+        website: "https://za.linkedin.com/in/peter-ing-8baba8143"
+        affiliation:
+          name: "TFG (The Foschini Group)"
+          website: "https://tfglimited.co.za/"
       - name: "Gregg Barrett"
         website: "http://www.linkedin.com/in/greggbarrett"
         affiliation:
           name: "Cirrus"
           website: "https://cirrusai.net/"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-        #   website: "TBD"
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
         affiliation:
