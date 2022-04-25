@@ -37,6 +37,10 @@ days:
         affiliation:
           name: "Harvard University"
           website: "https://www.seas.harvard.edu/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/TinyML_The_Future_of_Machine_Learning_is_Tiny_and_Bright.pdf"
+            local: "1"
       - name: "Michael Perkins"
         website: "https://www.linkedin.com/in/mike-perk-perkins"
         affiliation:
