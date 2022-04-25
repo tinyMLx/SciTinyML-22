@@ -26,9 +26,9 @@ days:
           name: "ICTP"
           website: "https://www.ictp.it/"
         links:
-          # - title: "Slides"
-          #   url: "/assets/slides/TBD.pdf"
-          #   local: "1"
+          - title: "Slides"
+            url: "/assets/slides/Welcome_ICTP_Workshop.pdf"
+            local: "1"
           #   related_to_next: "1"
           # - title: "Video"
           #   url: "http://www.TBD.com"
