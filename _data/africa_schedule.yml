@@ -119,7 +119,7 @@ days:
       - time: "1:05:00 PM"
         name: "Convolutions for Hands-on Computer Vision"
       - time: "2:50:00 PM"
-        name: "TBD Application Case Study"
+        name: "Farmland Pest Detection with UAVs"
       - time: "3:20:00 PM"
         name: "TBD Application Case Study"
       - time: "3:50:00 PM"
@@ -133,13 +133,13 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      - name: "TBD"
-        # website: "TBD"
+      - name: "Segun Adebayo"
+        website: "https://ng.linkedin.com/in/segun-adebayo-088b17141"
         affiliation:
-          name: "TBD"
-        #   website: "TBD"
+          name: "Bowen University"
+          website: "https://bowen.edu.ng/"
       - name: "TBD"
-        # website: "TBD"
+        # website: "TB"
         affiliation:
           name: "TBD"
         #   website: "TBD"
