@@ -141,6 +141,13 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+        links:
+          - title: "Slides as PDF"
+            url: "/assets/slides/Convolutions_for_Hands-on_Computer_Vision.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "as Google Slides"
+            url: "https://docs.google.com/presentation/d/1cHjB1iUDKkLMZseuLpaoWnOJUDoMx6ygdicT-DUsGTU/edit"
       - name: "Segun Adebayo"
         website: "https://ng.linkedin.com/in/segun-adebayo-088b17141"
         affiliation:
