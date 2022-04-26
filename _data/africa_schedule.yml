@@ -13,9 +13,9 @@ days:
         name: "Conference Opening and Schedule"
       - time: "1:20:00 PM"
         name: "Keynote - Vijay Janpa Reddi"
-      - time: "2:00:00 PM"
+      - time: "2:15:00 PM"
         name: "Introduction to Machine Learning"
-      - time: "3:45:00 PM"
+      - time: "3:50:00 PM"
         name: "Day Closing"
     speakers:
       - name: "Marco Zennaro"
@@ -44,6 +44,9 @@ days:
         affiliation:
           name: "CMU-Africa"
           website: "https://www.africa.engineering.cmu.edu/index.html"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Machine_Learning_Introduction.pdf"
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -113,8 +116,10 @@ days:
         name: "Convolutions for Hands-on Computer Vision"
       - time: "2:50:00 PM"
         name: "Farmland Pest Detection with UAVs"
-      - time: "3:20:00 PM"
-        name: "TBD Application Case Study"
+      - time: "3:10:00 PM"
+        name: "Cotton Leaf Anomaly Detection"
+      - time: "3:30:00 PM"
+        name: "Foot and Mouth Disease Detection in Cattle"
       - time: "3:50:00 PM"
         name: "Day Closing"
     speakers:
@@ -131,11 +136,16 @@ days:
         affiliation:
           name: "Bowen University"
           website: "https://bowen.edu.ng/"
-      - name: "TBD"
+      - name: "James Oluwaseun Adeola"
         # website: "TB"
         affiliation:
-          name: "TBD"
-        #   website: "TBD"
+          name: "Institut de Mathématiques et de Sciences Physiques"
+          website: "http://imsp-benin.com/home/"
+      - name: "Timothy Kuhamba"
+        website: "https://www.linkedin.com/in/timothy-k-kuhamba-6a818725/?originalSubdomain=zw"
+        affiliation:
+          name: "Zimbabwe National Geospatial Agency"
+          website: "https://zw.linkedin.com/company/zimbabwe-national-geospatial-and-space-agency"
 
   - number: "4"
     dayOfWeek: "Thursday"
