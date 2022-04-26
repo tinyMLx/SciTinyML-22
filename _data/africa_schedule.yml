@@ -47,6 +47,7 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides/Machine_Learning_Introduction.pdf"
+            local: "1"
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -71,17 +72,26 @@ days:
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Welcome_Day2.pdf"
+            local: "1"
       - name: "Marcelo Rovai"
         website: "https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/"
         affiliation:
           name: "UNIFEI"
           website: "https://unifei.edu.br/"
-      - name: "Shawn Hymel"
-        website: "https://www.linkedin.com/in/shawnhymel"
-        affiliation:
+        name2: "Shawn Hymel"
+        website2: "https://www.linkedin.com/in/shawnhymel"
+        affiliation2:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
-      - links:
+        links:
           - title: "Slides Part 1"
             url: "/assets/slides/Day2_01_Introduction-to-Edge-Impulse.pdf"
             local: "1"
