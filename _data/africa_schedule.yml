@@ -1,8 +1,8 @@
 headers:
- - Day
- - Date
- - Topics
- - Speakers and Materials
+ - "Day"
+ - "Date"
+ - "Topics"
+ - "Speakers and Materials"
 
 days:
   - number: "1"
@@ -27,9 +27,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Welcome_ICTP_Workshop.pdf"
             local: "1"
-          #   related_to_next: "1"
-          # - title: "Video"
-          #   url: "http://www.TBD.com"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/d7v90QUhh8g"
       - name: "Vijay Janapa Reddi"
         website: "https://scholar.harvard.edu/vijay-janapa-reddi/home"
         affiliation:
@@ -39,6 +39,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/TinyML_The_Future_of_Machine_Learning_is_Tiny_and_Bright.pdf"
             local: "1"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/pC6VfmjFC44"
       - name: "Michael Perkins"
         website: "https://www.linkedin.com/in/mike-perk-perkins"
         affiliation:
@@ -48,6 +51,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Machine_Learning_Introduction.pdf"
             local: "1"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/pjOI7p0_5Ww"
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -115,6 +121,9 @@ days:
           - title: "Part 6"
             url: "/assets/slides/Day2_06_Hands-On-Anomaly-Detection-and-Post-Processing.pdf"
             local: "1"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/k-Y1A73u_Gc"
   
   - number: "3"
     dayOfWeek: "Wednesday"
@@ -204,6 +213,16 @@ days:
         affiliation2:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+        links:
+          - title: "Slides as PDF"
+            url: "/assets/slides/Data_Pre-Processing_for_Hands-on_Keyword_Spotting.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "as Google Slides"
+            url: "https://docs.google.com/presentation/d/1EsISSVZxNXeCphAd6PriBORMnM5As0w05xIzuyfs4hI/edit"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/inWVs5HMakY"
       - name: "Maedin Seid"
         website: "https://et.linkedin.com/in/maedin-seid-1b500a138"
         name2: "Betemariam Assamnew"
