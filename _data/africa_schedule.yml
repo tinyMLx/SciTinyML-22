@@ -226,6 +226,10 @@ days:
         affiliation:
           name: "Santa Clara University"
           website: "https://www.scu.edu/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Responsible_AI.pdf"
+            local: "1"
 
   - number: "5"
     dayOfWeek: "Friday"
@@ -257,11 +261,19 @@ days:
         affiliation:
           name: "UNESCO"
           website: "https://www.unesco.org"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/UNESCO_and_Disaster_Response.pdf"
+            local: "1"
       - name: "Alessandro Grande"
         website: "https://www.linkedin.com/in/alessandrogrande/"
         affiliation:
           name: "Edge Impulse"
           website: "https://edgeimpulse.com/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/TinyML_AI_for_Good.pdf"
+            local: "1"
       - name: "Steve Chan"
         website: "https://stevechanieee.github.io/stevechan_profile.html"
         affiliation:
@@ -289,6 +301,10 @@ days:
         affiliation:
           name: "University of Medical Sciences & Technology (UMST)"
           website: "https://www.umst-edu.sd/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Low_Cost_River_Water_Quality_Monitoring_System.pdf"
+            local: "1"
       - name: "Maedin Seid"
         website: "https://et.linkedin.com/in/maedin-seid-1b500a138"
         name2: "Betemariam Assamnew"
