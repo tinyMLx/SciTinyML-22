@@ -166,6 +166,8 @@ days:
             related_to_next: "1"
           - title: "as Google Slides"
             url: "https://docs.google.com/presentation/d/1cHjB1iUDKkLMZseuLpaoWnOJUDoMx6ygdicT-DUsGTU/edit"
+          # - title: "Video"
+          #   url: "TBD"
       - name: "Segun Adebayo"
         website: "https://ng.linkedin.com/in/segun-adebayo-088b17141"
         affiliation:
@@ -175,11 +177,19 @@ days:
           - title: "Slides"
             url: "/assets/slides/Farmland_Pest_Detection_with_UAVs.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
       - name: "James Oluwaseun Adeola"
-        # website: "TB"
+        # website: "TBD"
         affiliation:
           name: "Institut de Mathématiques et de Sciences Physiques"
           website: "http://imsp-benin.com/home/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD.pdf"
+        #     local: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Timothy Kuhamba"
         website: "https://www.linkedin.com/in/timothy-k-kuhamba-6a818725/?originalSubdomain=zw"
         affiliation:
@@ -189,6 +199,8 @@ days:
           - title: "Slides"
             url: "/assets/slides/Foot_And_Mouth_Disease_Detection.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
 
   - number: "4"
     dayOfWeek: "Thursday"
@@ -203,6 +215,15 @@ days:
       - time: "3:50:00 PM"
         name: "Day Closing"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Welcome_Day4.pdf"
+            local: "1"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
@@ -219,7 +240,7 @@ days:
           - title: "as Google Slides"
             url: "https://docs.google.com/presentation/d/1EsISSVZxNXeCphAd6PriBORMnM5As0w05xIzuyfs4hI/edit"
             related_to_next: "1"
-          - title: "Video"
+          - title: "Pre-Recorded Video"
             url: "https://youtu.be/inWVs5HMakY"
       - name: "Susan Kennedy"
         website: "https://www.susan-kennedy.com/"
@@ -230,6 +251,8 @@ days:
           - title: "Slides"
             url: "/assets/slides/Responsible_AI.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
 
   - number: "5"
     dayOfWeek: "Friday"
@@ -265,25 +288,38 @@ days:
           - title: "Slides"
             url: "/assets/slides/UNESCO_and_Disaster_Response.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
       - name: "Alessandro Grande"
         website: "https://www.linkedin.com/in/alessandrogrande/"
         affiliation:
           name: "Edge Impulse"
           website: "https://edgeimpulse.com/"
-        links:
-          - title: "Slides"
-            url: "/assets/slides/TinyML_AI_for_Good.pdf"
-            local: "1"
+        # links:
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Steve Chan"
         website: "https://stevechanieee.github.io/stevechan_profile.html"
         affiliation:
           name: "Vit Tall Healthcare Analytics & Informatics"
           website: "https://vthealthcareinformatics.com/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Detecting_Powerline_Noise.pdf"
+            local: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Peter Ing"
         website: "https://za.linkedin.com/in/peter-ing-8baba8143"
         affiliation:
           name: "TFG (The Foschini Group)"
           website: "https://tfglimited.co.za/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Wildfire_Detection.pdf"
+            local: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Samson Otieno Ooko"
         website: "https://www.linkedin.com/in/samson-otieno-ooko-b397a315/"
         affiliation:
@@ -296,6 +332,8 @@ days:
           - title: "Project Description"
             url: "/assets/slides/Self_Diagnostic_Kit_for_Respiratory_Diseases_Description.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
       - name: "Siddig Gomha"
         website: "https://sd.linkedin.com/in/siddig-gomha-85065b30"
         affiliation:
@@ -305,6 +343,8 @@ days:
           - title: "Slides"
             url: "/assets/slides/Low_Cost_River_Water_Quality_Monitoring_System.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
       - name: "Maedin Seid"
         website: "https://et.linkedin.com/in/maedin-seid-1b500a138"
         name2: "Betemariam Assamnew"
@@ -319,13 +359,30 @@ days:
           - title: "Project Description"
             url: "/assets/slides/Case_Study_Anti_Poaching_Project_Description.pdf"
             local: "1"
+          # - title: "Video"
+          #   url: "TBD"
       - name: "Gregg Barrett"
         website: "http://www.linkedin.com/in/greggbarrett"
         affiliation:
           name: "Cirrus"
           website: "https://cirrusai.net/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/TBD"
+        #     local: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Welcome Slides"
+            url: "/assets/slides/Welcome_Day5.pdf"
+            local: "1"
+        #   - title: "Closing Slides"
+        #     url: "/assets/slides/Closing.pdf"
+        #     local: "1"
+        #   - title: "Closing Video"
+        #     url: "TBD"
