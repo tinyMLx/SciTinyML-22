@@ -366,10 +366,10 @@ days:
         affiliation:
           name: "Cirrus"
           website: "https://cirrusai.net/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/AI_Africa_Consortium.pdf"
+            local: "1"
         #   - title: "Video"
         #     url: "TBD"
       - name: "Marco Zennaro"
