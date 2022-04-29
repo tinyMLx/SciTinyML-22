@@ -184,10 +184,10 @@ days:
         affiliation:
           name: "Institut de Mathématiques et de Sciences Physiques"
           website: "http://imsp-benin.com/home/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/TBD.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Cotton_Leaf_Anomaly_Detection.pdf"
+            local: "1"
         #   - title: "Video"
         #     url: "TBD"
       - name: "Timothy Kuhamba"
