@@ -4,7 +4,7 @@ title: Asia
 
 <figure class="figure">
   <center>
-  <img src="{{ site.baseurl }}/assets/cover.png" alt="advertisement for the workshop" class="vid-fluid rounded center">
+  <img src="{{ site.baseurl }}/assets/coverAsia.png" alt="advertisement for the workshop" class="vid-fluid rounded center">
   </center>
 </figure>
 
