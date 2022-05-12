@@ -8,7 +8,7 @@ title: Africa
   </center>
 </figure>
 
->The 2022 African Regional Workshop on SciTinyML: Scientific Use of Machine Learning on Low-Power Devices was run virtually from April 25-29, 2022. <br> We hope you enjoyed the workshop!
+>The [2022 African Regional Workshop on SciTinyML](https://indico.ictp.it/event/9792/): Scientific Use of Machine Learning on Low-Power Devices was run virtually from April 25-29, 2022. <br> We hope you enjoyed the workshop!
 
 <div id = "LOCAL_TIME"></div><br/>
 

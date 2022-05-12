@@ -9,13 +9,13 @@ title: false
 
 # Welcome!
 
->SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run regionally for 2022 with seperate workshops for <a href="/SciTinyML-22/africa">Africa</a>, <a href="/SciTinyML-22/asia">Asia</a>, and <a href="/SciTinyML-22/latam">Latin America</a>.
+>SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run regionally for 2022 with seperate workshops for <a href="/SciTinyML-22/africa">Africa</a>, <a href="/SciTinyML-22/asia">Asia</a>, and <a href="/SciTinyML-22/latam">Latin America</a>. The Africa and Asia Workshops were taught in English while the Latam Workshop was taught in Spanish with select presentations in English.
 
 <div class="message">
   To view the materials and videos from past years SciTinyML workshops and TinyML4D seminars please visit the <a href="https://tinyml.seas.harvard.edu/4D/pastEvents">TinyML4D Past Events</a> page.
 </div>
 
-SciTinyML is an ICTP Virtual Meeting supported by the [TinyML4D Academic Network](https://tinyml.seas.harvard.edu/4D/AcademicNetwork) and open to all.
+SciTinyML is an ICTP Virtual Meeting supported by the [TinyML4D Academic Network](https://tinymledu.org/4D/AcademicNetwork) and open to all.
 
 **TinyML is a subfield of Machine Learning focused on developing models that can be executed on small, realtime, low-power, and low-cost embedded devices. This allows for new scientific applications to be developed at an extremely low cost and at large scale.**
 
