@@ -47,11 +47,23 @@ days:
         affiliation:
           name: "National University of Malaysia"
           website: "https://www.ukm.my/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/Machine_Learning_Introduction.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
+        links:
+          - title: "Slides as PDF"
+            url: "/assets/slides_asia/Introduction_to_ML_Part_1.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "and as PPT"
+            url: "/assets/slides_asia/Introduction_to_ML_Part_1.pptx"
+            local: "1"
+            related_to_next: "1"
+          - title: "Example Notebook"
+            url: "/assets/slides_asia/CO2Emission.ipynb"
+            local: "1"
+            related_to_next: "1"
+          - title: "and Dataset"
+            url: "/assets/slides_asia/FuelConsumption.csv"
+            local: "1"
+            # related_to_next: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/pjOI7p0_5Ww"
 
