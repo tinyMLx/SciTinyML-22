@@ -108,10 +108,10 @@ days:
         affiliation:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/Machine_Learning_Introduction.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/Introduction_to_Edge_Impulse.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/pjOI7p0_5Ww"
