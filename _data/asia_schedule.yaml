@@ -87,20 +87,23 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_asia/Welcome_Day2.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/welcome_day2.pdf"
+            local: "1"
       - name: "Mehran Behjati"
         website: "https://www.linkedin.com/in/mehran-behjati"
         affiliation:
           name: "National University of Malaysia"
           website: "https://www.ukm.my/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_asia/Machine_Learning_Introduction.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/Introduction_to_ML_Part_2.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Example Notebook"
+            url: "/assets/slides_asia/NeuralNetworksMNIST.ipynb"
+            local: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/pjOI7p0_5Ww"
       - name: "Louis Moreau"
