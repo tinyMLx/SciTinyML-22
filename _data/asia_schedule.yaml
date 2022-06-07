@@ -27,9 +27,9 @@ days:
           - title: "Slides"
             url: "/assets/slides_asia/welcome.pdf"
             local: "1"
-        #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "https://youtu.be/d7v90QUhh8g"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/4dVcNPW9M-A"
       - name: "Vijay Janapa Reddi"
         website: "https://scholar.harvard.edu/vijay-janapa-reddi/home"
         affiliation:
@@ -40,7 +40,7 @@ days:
             url: "/assets/slides/TinyML_The_Future_of_Machine_Learning_is_Tiny_and_Bright.pdf"
             local: "1"
             related_to_next: "1"
-          - title: "Video"
+          - title: "Prerecorded Video"
             url: "https://youtu.be/pC6VfmjFC44"
       - name: "Mehran Behjati"
         website: "https://www.linkedin.com/in/mehran-behjati"
@@ -63,9 +63,9 @@ days:
           - title: "and Dataset"
             url: "/assets/slides_asia/FuelConsumption.csv"
             local: "1"
-            # related_to_next: "1"
-        #   - title: "Video"
-        #     url: "https://youtu.be/pjOI7p0_5Ww"
+            related_to_next: "1"
+          - title: "Video"
+            url: "https://youtu.be/VC9xXztQt2A"
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -89,7 +89,7 @@ days:
           website: "https://www.ictp.it/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/Welcome_Day2.pdf"
+        #     url: "/assets/slides_asia/Welcome_Day2.pdf"
         #     local: "1"
       - name: "Mehran Behjati"
         website: "https://www.linkedin.com/in/mehran-behjati"
@@ -98,7 +98,7 @@ days:
           website: "https://www.ukm.my/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/Machine_Learning_Introduction.pdf"
+        #     url: "/assets/slides_asia/Machine_Learning_Introduction.pdf"
         #     local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
@@ -120,11 +120,15 @@ days:
         affiliation:
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/Machine_Learning_Introduction.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/Intro_to_Wio.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Wio Reference Manual"
+            url: "/assets/slides_asia/Wio_Reference_Manual.pdf"
+            local: "1"
+            # related_to_next: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/pjOI7p0_5Ww"
   
@@ -150,7 +154,7 @@ days:
           website: "https://www.ictp.it/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/Welcome_Day3.pdf"
+        #     url: "/assets/slides_asia/Welcome_Day3.pdf"
         #     local: "1"
       - name: "Momodou B. Jallow"
         # website: "TBD"
@@ -173,7 +177,7 @@ days:
           - title: "Slides"
             url: "/assets/slides/Responsible_AI.pdf"
             local: "1"
-          - title: "Video"
+          - title: "Prerecorded Video"
             url: "https://youtu.be/ndF4R69jizQ"
   
   - number: "4"
@@ -198,7 +202,7 @@ days:
           website: "https://www.ictp.it/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/Welcome_Day4.pdf"
+        #     url: "/assets/slides_asia/Welcome_Day4.pdf"
         #     local: "1"
       - name: "Momodou B. Jallow"
         # website: "TBD"
@@ -207,7 +211,7 @@ days:
           website: "https://www.seeedstudio.com/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/Machine_Learning_Introduction.pdf"
+        #     url: "/assets/slides_asia/Machine_Learning_Introduction.pdf"
         #     local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
@@ -227,7 +231,7 @@ days:
             related_to_next: "1"
           - title: "as Google Slides"
             url: "https://docs.google.com/presentation/d/1cHjB1iUDKkLMZseuLpaoWnOJUDoMx6ygdicT-DUsGTU/edit"
-          - title: "Video"
+          - title: "Prerecorded Video"
             url: "https://youtu.be/Grf_21CXgo4"
 
   - number: "5"
@@ -256,7 +260,7 @@ days:
           website: "https://www.edgeimpulse.com/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/UNESCO_and_Disaster_Response.pdf"
+        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
         #     local: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/D4D4ijEI6kE"
@@ -267,7 +271,7 @@ days:
           # website: "TBD"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/UNESCO_and_Disaster_Response.pdf"
+        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
         #     local: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/D4D4ijEI6kE"
@@ -278,7 +282,7 @@ days:
           # website: "TBD"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/UNESCO_and_Disaster_Response.pdf"
+        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
         #     local: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/D4D4ijEI6kE"
@@ -289,7 +293,7 @@ days:
           website: "https://www.unesco.org"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides/UNESCO_and_Disaster_Response.pdf"
+        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
         #     local: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/D4D4ijEI6kE"
