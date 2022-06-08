@@ -119,7 +119,7 @@ days:
         #   - title: "Video"
         #     url: "https://youtu.be/pjOI7p0_5Ww"
       - name: "Momodou B. Jallow"
-        # website: "TBD"
+        website: "https://www.mbjallow.com/"
         affiliation:
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
@@ -155,12 +155,12 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_asia/Welcome_Day3.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/welcome_day3.pdf"
+            local: "1"
       - name: "Momodou B. Jallow"
-        # website: "TBD"
+        website: "https://www.mbjallow.com/"
         affiliation:
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
@@ -208,7 +208,7 @@ days:
         #     url: "/assets/slides_asia/Welcome_Day4.pdf"
         #     local: "1"
       - name: "Momodou B. Jallow"
-        # website: "TBD"
+        website: "https://www.mbjallow.com/"
         affiliation:
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
