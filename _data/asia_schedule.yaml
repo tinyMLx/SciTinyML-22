@@ -164,10 +164,10 @@ days:
         affiliation:
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/Machine_Learning_Introduction.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/Hands_On_Motion_Detection.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/pjOI7p0_5Ww"
