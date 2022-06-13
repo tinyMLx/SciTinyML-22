@@ -312,7 +312,7 @@ days:
           website: "https://www.edgeimpulse.com/"
         # links:
         #   - title: "Slides"
-        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
+        #     url: "/assets/slides_asia/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
@@ -334,10 +334,10 @@ days:
         affiliation:
           name: "GTek Research, Philippines"
           # website: "TBD"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/From_Edge_to_Data_Centers.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/D4D4ijEI6kE"
@@ -346,10 +346,10 @@ days:
         affiliation:
           name: "UNESCO"
           website: "https://www.unesco.org"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_asia/UNESCO_and_Disaster_Response.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_asia/Disaster_Risk_Reduction.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "https://youtu.be/D4D4ijEI6kE"
