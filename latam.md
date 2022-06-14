@@ -12,6 +12,7 @@ title: Latam
 
 
 <div id = "LOCAL_TIME"></div>
+
 {% include schedule_table table_data = site.data.latam_schedule %}
 
 <script>
