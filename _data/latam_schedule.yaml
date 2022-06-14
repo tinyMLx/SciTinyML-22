@@ -156,7 +156,7 @@ days:
       - time: "3:25:00 PM"
         name: "Case Study: FURG - AI-vision Sensors for Water Quality Monitoring"
       - time: "3:45:00 PM"
-        name: "Case Study: Mask/No-Mask Detector"
+        name: "Case Study: Detecting usage of personal protective equipment using CNN"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -222,23 +222,11 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
-      - name: "TBD"
+      - name: "G. França"
         # website: "TBD"
         affiliation:
-          name: "TBD"
-          # website: "TBD"
-        # links:
-        #   - title: "Slides as PDF"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-          # website: "TBD"
+          name: "Instituto Federal de São Paulo"
+          website: "https://www.ifsp.edu.br/"
         # links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
