@@ -333,10 +333,10 @@ days:
         #   - title: "Video"
         #     url: "TBD"
       - name: "Sebastian Romero"
-        # website: "TBD"
+        website: "https://www.linkedin.com/in/romeroseb/"
         affiliation:
           name: "Arduino"
-          # website: "TBD"
+          website: "https://www.arduino.cc/pro"
         # links:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/TBD.pdf"
