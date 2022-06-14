@@ -87,7 +87,7 @@ days:
       - time: "3:20:00 PM"
         name: "Case Study: TFLite-Micro"
       - time: "3:40:00 PM"
-        name: "Case Study:  Implementation of TinyML for the study of animal movement in real time
+        name: "Case Study:  Implementation of TinyML for the study of animal movement in real time"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -104,7 +104,7 @@ days:
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
-          website: "https://www.uvg.edu.gt/ "
+          website: "https://www.uvg.edu.gt/"
         # links:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/TBD.pdf"
@@ -214,7 +214,7 @@ days:
         # website: "TBD"
         affiliation:
           name: "Universidad del Valle de Guatemala"
-          # website: "TBD"
+          website: "https://www.uvg.edu.gt/"
         # links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
@@ -246,11 +246,11 @@ days:
       - time: "2:40:00 PM"
         name: "Case Study: Indoor Localization"
       - time: "3:00:00 PM"
-        name: "Case Study: TBD"
+        name: "Case Study: Early detection of faults in electric motors"
       - time: "3:20:00 PM"
         name: "Case Study: Audio Processing to Prevent Possible Femicides"
       - time: "3:40:00 PM"
-        name: "Case Study: TinyML Keyboard"
+        name: "Case Study: TinyML applied to key recognition from the sound signal produced by pressing a physical keyboard"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -279,11 +279,11 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
-      - name: "TBD"
+      - name: "Ronald Criollo"
         # website: "TBD"
         affiliation:
-          name: "TBD"
-          # website: "TBD"
+          name: "Escuela Superior Politécnica del Litoral"
+          website: "https://www.espol.edu.ec"
         # links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
@@ -291,35 +291,11 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
-      - name: "TBD"
+      - name: "Renan Castro"
         # website: "TBD"
         affiliation:
-          name: "TBD"
-          # website: "TBD"
-        # links:
-        #   - title: "Slides as PDF"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-          # website: "TBD"
-        # links:
-        #   - title: "Slides as PDF"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-          # website: "TBD"
+          name: "Instituto Federal de São Paulo"
+          website: "https://www.ifsp.edu.br/"
         # links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
@@ -335,13 +311,13 @@ days:
       - time: "1:00:00 PM"
         name: "Day Opening"
       - time: "1:05:00 PM"
-        name: "FOMO"
+        name: "TinyML on Computer Vision - New Advances"
       - time: "2:00:00 PM"
         name: "Arduino Pro and ML"
       - time: "2:30:00 PM"
-        name: "Ethics of TinyML"
+        name: "Why is it Important to Talk about Ethics in AI Applications?"
       - time: "3:00:00 PM"
-        name: "University Case Studies"
+        name: "University Case Studies (Open Presentations / Pitch Future ideas)"
       - time: "3:50:00 PM"
         name: "Workshop Closing"
     speakers:
@@ -378,15 +354,4 @@ days:
         #     local: "1"
         #   - title: "Video"
         #     url: "TBD"
-      - name: "TBD"
-        # website: "TBD"
-        affiliation:
-          name: "TBD"
-          # website: "TBD"
-        # links:
-        #   - title: "Slides as PDF"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+    
