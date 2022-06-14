@@ -33,10 +33,10 @@ days:
         #   - title: "Video"
         #     url: "TBD"
       - name: "David Cuartielles"
-        # website: "TBD"
+        website: "https://mau.se/en/persons/david.cuartielles/"
         affiliation:
           name: "Arduino Co-Founder"
-        #   website: "https://www.seas.harvard.edu/"
+          website: "https://www.arduino.cc/en/about#founders"
         # links:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/TBD.pdf"
@@ -85,11 +85,11 @@ days:
       - time: "2:00:00 PM"
         name: "Hands-on Motion classification and Anomaly Detection"
       - time: "3:00:00 PM"
-        name: "Case Study: TFLiteMicro"
+        name: "Case Study: TFLite-Micro"
       - time: "3:20:00 PM"
-        name: "Case Study: Implementation of TinyML for the Study of Animal Movement"
+        name: "Case Study:  Implementation of TinyML for the study of animal movement: motion detection in real time"
       - time: "3:40:00 PM"
-        name: "Case Study: Preventive Maintenance"
+        name: "Case Study: TBD"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
