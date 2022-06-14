@@ -101,7 +101,7 @@ days:
         #     url: "/assets/slides_latam/welcome_day2.pdf"
         #     local: "1"
       - name: "José Antonio Bagur Nájera"
-        website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
+        website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
@@ -269,6 +269,7 @@ days:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
         name2: "José Antonio Bagur Nájera"
+        website2: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation2:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/ "
