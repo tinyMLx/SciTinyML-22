@@ -17,10 +17,10 @@ title: Latam
 
 <script>
   // top time
-  var start = new Date('10/18/2021 7:00:00 AM UTC');
-  var end = new Date('10/18/2021 10:00:00 AM UTC');
+  var start = new Date('10/18/2021 1:00:00 PM GMT');
+  var end = new Date('10/18/2021 4:00:00 PM GMT');
   var localTime = start.toLocaleTimeString([], {timeStyle: 'short'}) + " to " + end.toLocaleTimeString([], {timeStyle: 'short'});
-  var startString = "The workshop will run each day from <b>7:00 AM to 10:00 AM UTC (and until 11:00 AM UTC on Friday) which is "
+  var startString = "The workshop will run each day from <b>1:00 PM to 4:00 PM GMT (and until 4:00 PM GMT on Friday) which is "
   var endString = " in your local timezone</b> (according to your computer system time). Times below adjusted to that time zone. Exact timing and topics subject to change."
   document.getElementById('LOCAL_TIME').innerHTML = startString + localTime + endString;
   
