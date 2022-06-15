@@ -154,7 +154,7 @@ days:
       - time: "3:05:00 PM"
         name: "Case Study: Satellite Applications for TinyML"
       - time: "3:25:00 PM"
-        name: "Case Study: FURG - AI-vision Sensors for Water Quality Monitoring"
+        name: "Case Study: AI-vision Sensors for Water Quality Monitoring"
       - time: "3:45:00 PM"
         name: "Case Study: Detecting usage of personal protective equipment using CNN"
       - time: "3:55:00 PM"
@@ -237,7 +237,7 @@ days:
       - name: "G. França"
         # website: "TBD"
         affiliation:
-          name: "Instituto Federal de São Paulo"
+          name: "Instituto Federal de São Paulo - IFSP"
           website: "https://www.ifsp.edu.br/"
         # links:
         #   - title: "Slides as PDF"
@@ -307,7 +307,7 @@ days:
       - name: "Renan Castro"
         # website: "TBD"
         affiliation:
-          name: "Instituto Federal de São Paulo"
+          name: "Instituto Federal de São Paulo - IFSP"
           website: "https://www.ifsp.edu.br/"
         # links:
         #   - title: "Slides as PDF"
