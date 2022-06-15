@@ -87,7 +87,7 @@ days:
       - time: "3:20:00 PM"
         name: "Case Study: TFLite-Micro"
       - time: "3:40:00 PM"
-        name: "Case Study:  Implementation of TinyML for the study of animal movement in real time"
+        name: "Case Study:  Implementation of TinyML for the study of animal movement: motion detection in real time"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -189,7 +189,7 @@ days:
       - name: "Marcelo Rovai"
         website: "https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/"
         affiliation:
-          name: "UNIFEI"
+          name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
         # links:
         #   - title: "Slides"
@@ -201,7 +201,7 @@ days:
       - name: "Ivan Balsa"
         # website: "TBD"
         affiliation:
-          name: "UNIFEI"
+          name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
         # links:
         #   - title: "Slides as PDF"
@@ -215,6 +215,18 @@ days:
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
+        # links:
+        #   - title: "Slides as PDF"
+        #     url: "/assets/slides_latam/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: "1"
+        #   - title: "Video"
+        #     url: "TBD"
+      - name: "Marcelo Pias and Bruna Guterres"
+        website: "http://www.c3.furg.br/equipe.php#"
+        affiliation:
+          name: "Federal University of Rio Grande - FURG"
+          website: "http://www.c3.furg.br/"
         # links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
