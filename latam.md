@@ -14,7 +14,8 @@ title: Latam
 <div id = "LOCAL_TIME"></div>
 
 {% include schedule_table table_data = site.data.latam_schedule %}
-<br>
+
+
 <script>
   // top time
   var start = new Date('10/18/2021 1:00:00 PM UTC');
