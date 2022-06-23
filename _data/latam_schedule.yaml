@@ -87,7 +87,7 @@ days:
       - time: "3:20:00 PM"
         name: "Case Study: TFLite-Micro"
       - time: "3:40:00 PM"
-        name: "Case Study:  Implementation of TinyML for the study of animal movement: motion detection in real time"
+        name: "Case Study: TinyML for the Study of Animal Movement: Real Time Motion Detection"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -157,7 +157,7 @@ days:
       - time: "3:15:00 PM"
         name: "Case Study: AI-vision Sensors for Water Quality Monitoring"
       - time: "3:30:00 PM"
-        name: "Case Study: Detecting usage of personal protective equipment using CNN"
+        name: "Case Study: Detecting Usage of Personal Protective Equipment with a CNN"
       - time: "3:45:00 PM"
         name: "Case Study: Computer Vision - Mask/No-Mask"
       - time: "3:55:00 PM"
@@ -253,7 +253,7 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
-   - name: "Jesús Alfonso López Sotelo"
+      - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         name2: "TBD"
         affiliation:
@@ -266,6 +266,7 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
+
   - number: "4"
     dayOfWeek: "Thursday"
     name: "Hands-on Key Word Spotting"
@@ -281,9 +282,9 @@ days:
       - time: "3:15:00 PM"
         name: "Case Study: Audio Processing to Prevent Possible Femicides"
       - time: "3:30:00 PM"
-        name: "Case Study: TinyML applied to key recognition from the sound signal produced by pressing a physical keyboard"
+        name: "Case Study: TinyML for Key Recognition from the Sound of a Physical Keyboard"
       - time: "3:45:00 PM"
-        name: "Case Study: Domestic appliances classification with TinyML trough acquisition of current and voltage signals"
+        name: "Case Study: Domestic Appliance Classification with TinyML via Current and Voltage Signals"
       - time: "3:55:00 PM"
         name: "Day Closing"
     speakers:
@@ -344,7 +345,7 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
-     - name: "Ivan Lucas Arandes"
+      - name: "Ivan Lucas Arandes"
         # website: "TBD"
         affiliation:
           name: "Instituto Federal de São Paulo - IFSP"

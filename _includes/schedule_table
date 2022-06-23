@@ -10,7 +10,7 @@
   <tbody>
     {% for day in include.table_data.days %}
     <tr>
-      <td>Day {{ day.number }}</td>
+      <td style="width: 75px">Day {{ day.number }}</td>
       <td>{{ day.dayOfWeek }}</td>
       <td><b>{{ day.name }}</b><br>
         {% for item in day.schedule %}

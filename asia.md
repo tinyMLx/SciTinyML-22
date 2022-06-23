@@ -8,10 +8,8 @@ title: Asia
   </center>
 </figure>
 
->Asian Regional Workshop on SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run virtually from June 6-10, 2022. <br> The Zoom link will be sent out to all registered attendees. The sign-up link is [available here](https://indico.ictp.it/event/9800/).
+>The [2022 Asian Regional Workshop on SciTinyML](https://indico.ictp.it/event/9800/): Scientific Use of Machine Learning on Low-Power Devices was run virtually from June 6-10, 2022. <br> We hope you enjoyed the workshop!
 
-<!-- >The [2022 Asian Regional Workshop on SciTinyML](https://indico.ictp.it/event/9800/): Scientific Use of Machine Learning on Low-Power Devices was run virtually from June 6-10, 2022. <br> We hope you enjoyed the workshop!
- -->
  
 <div id = "LOCAL_TIME"></div><br/>
 
