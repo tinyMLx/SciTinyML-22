@@ -61,7 +61,7 @@ days:
         #     url: "TBD"
         #   - title: "Video"
         #     url: "TBD"
-      - name: "Diego Mendes Chavez"
+      - name: "Diego Mendez Chaves"
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
           name: "Pontificia Universidad Javeriana"
@@ -202,6 +202,9 @@ days:
       - name: "Ivan Balsa"
         # website: "TBD"
         affiliation:
+          name: "Universidad Carlos III de Madrid"
+          website: "https://www.uc3m.es/Home"
+        affiliation2:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
         # links:
@@ -277,16 +280,23 @@ days:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/Welcome_Day4.pdf"
         #     local: "1"
+        name: "José Antonio Bagur Nájera"
+        website: "https://www.linkedin.com/in/joseantoniobagur/"
+        affiliation:
+          name: "Universidad del Valle de Guatemala"
+          website: "https://www.uvg.edu.gt/ "
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides_latam/TBD.pdf"
+        #     local: "1"
+        #     related_to_next: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Diego Méndez Chaves"
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
-        name2: "José Antonio Bagur Nájera"
-        website2: "https://www.linkedin.com/in/joseantoniobagur/"
-        affiliation2:
-          name: "Universidad del Valle de Guatemala"
-          website: "https://www.uvg.edu.gt/ "
         # links:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/TBD.pdf"
