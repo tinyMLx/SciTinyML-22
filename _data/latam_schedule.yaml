@@ -386,7 +386,7 @@ days:
         #     local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
-        #     url: "TBD"
+        #     url: "TBD "
       - name: "Shawn Hymel"
         website: "https://www.linkedin.com/in/shawnhymel"
         affiliation:
