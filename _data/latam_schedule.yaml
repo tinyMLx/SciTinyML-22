@@ -374,6 +374,18 @@ days:
       - time: "3:50:00 PM"
         name: "Workshop Closing"
     speakers:
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides_latam/welcome.pdf"
+        #     local: "1"
+        #     related_to_next: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Shawn Hymel"
         website: "https://www.linkedin.com/in/shawnhymel"
         affiliation:
