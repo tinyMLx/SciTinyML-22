@@ -8,7 +8,7 @@ title: Latam
   </center>
 </figure>
 
->Latam Regional Workshop on SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run virtually from July 11-15, 2022. <br> The Zoom link will be sent out to all registered attendees. The sign-up link is [available here](https://indico.ictp.it/event/9811/). The Latam Regional Workshop will be taught in Spanish with select presentations in English.
+>Latam Regional Workshop on SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run virtually from July 11-15, 2022. <br> The Zoom link will be sent out to all registered attendees. The sign-up link is [available here](https://indico.ictp.it/event/9811/). <b>The Latam Regional Workshop will be taught majority in Spanish</b> with select presentations in English.
 
 
 <div id = "LOCAL_TIME"></div><br/>
