@@ -297,7 +297,7 @@ days:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/Welcome_Day4.pdf"
         #     local: "1"
-        name: "José Antonio Bagur Nájera"
+      - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
