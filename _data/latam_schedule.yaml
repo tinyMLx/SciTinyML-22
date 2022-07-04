@@ -19,6 +19,8 @@ days:
         name: "(SP) Introduction to Deep Learning"
       - time: "3:55:00 PM"
         name: "(EN) Day Closing"
+      - time: "4:00:00 PM"
+        name: "(SP) Office Hour"
     speakers:
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
@@ -90,6 +92,8 @@ days:
         name: "(SP) Case Study: TinyML for the Study of Animal Movement: Real Time Motion Detection"
       - time: "3:55:00 PM"
         name: "(EN) Day Closing"
+      - time: "4:00:00 PM"
+        name: "(SP) Office Hour"
     speakers:
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
@@ -162,6 +166,8 @@ days:
         name: "(SP) Case Study: Computer Vision - Mask/No-Mask"
       - time: "3:55:00 PM"
         name: "(EN) Day Closing"
+      - time: "4:00:00 PM"
+        name: "(SP) Office Hour"
     speakers:
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
@@ -287,6 +293,8 @@ days:
         name: "(EN) Case Study: Domestic Appliance Classification with TinyML via Current and Voltage Signals"
       - time: "3:55:00 PM"
         name: "(EN) Day Closing"
+      - time: "4:00:00 PM"
+        name: "(SP) Office Hour"
     speakers:
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
@@ -374,6 +382,8 @@ days:
         name: "(EN) University Case Studies (Open Presentations / Pitch Future ideas)"
       - time: "3:50:00 PM"
         name: "(EN) Workshop Closing"
+      - time: "4:00:00 PM"
+        name: "(SP) Office Hour"
     speakers:
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
