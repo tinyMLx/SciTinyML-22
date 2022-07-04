@@ -20,8 +20,8 @@ title: Latam
   var start = new Date('10/18/2021 1:00:00 PM GMT');
   var end = new Date('10/18/2021 4:00:00 PM GMT');
   var localTime = start.toLocaleTimeString([], {timeStyle: 'short'}) + " to " + end.toLocaleTimeString([], {timeStyle: 'short'});
-  var startString = "The workshop will run each day from <b>1:00 PM to 4:00 PM GMT (and until 4:00 PM GMT on Friday) which is "
-  var endString = " in your local timezone</b> (according to your computer system time). As a reference, the Workshop will start at 9:00 AM (Boston/Santiago); 10:00 AM (Buenos Aires/Brasilia). Times below adjusted to that time zone. Exact timing and topics subject to change."
+  var startString = "The workshop will run each day from <b>1:00 PM to 5:00 PM GMT (and until 5:00 PM GMT on Friday) which is "
+  var endString = " in your local timezone</b> (according to your computer system time). As a reference, the Workshop will start at 9:00 AM (Boston/Santiago); 10:00 AM (Buenos Aires/Brasilia). Times below adjusted to that time zone. <b>Note that the last hour (Office Hour) is optional and can be used by attendants to solve doubts with Teacher Assistants (TAs)</b>. Exact timing and topics subject to change."
   document.getElementById('LOCAL_TIME').innerHTML = startString + localTime + endString;
   
   // all times
