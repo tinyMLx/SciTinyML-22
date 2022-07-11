@@ -79,7 +79,12 @@ days:
           - title: "Slides"
             url: "/assets/slides_latam/scitinyml_latam-intro_dl.pdf"
             local: "1"
-          #   related_to_next: "1"
+            related_to_next: "1"
+          - title: "Regression.ipynb"
+            url: "https://colab.research.google.com/github.com/tinyMLx/SciTinyML-22/blob/main/assets/slides_latam/1-Regression.ipynb"
+            related_to_next: "1"
+          - title: "MNIST_NN.ipynb"
+            url: "https://colab.research.google.com/github.com/tinyMLx/SciTinyML-22/blob/main/assets/slides_latam/2-MNIST_NN.ipynb"
           # - title: "Video"
           #   url: "TBD"
 
