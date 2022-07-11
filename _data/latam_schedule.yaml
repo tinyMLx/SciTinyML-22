@@ -39,10 +39,10 @@ days:
         affiliation:
           name: "Arduino (Co-Founder)"
           website: "https://www.arduino.cc/en/about#founders"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Cuartielles-TinyML_Latam_keynote.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
