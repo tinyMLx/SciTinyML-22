@@ -68,11 +68,13 @@ days:
         affiliation:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
+        links:
+          - title: "Slides - Part 1"
+            url: "/assets/slides_latam/scitinyml_latam-intro_dl_part_1.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "Slides - Part 2 "
+            url: "/assets/slides_latam/scitinyml_latam-intro_dl_part_2.pdf"
         #   - title: "Video"
         #     url: "TBD"
 
