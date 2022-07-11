@@ -27,10 +27,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/welcome.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/welcome.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
