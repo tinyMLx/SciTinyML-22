@@ -75,6 +75,7 @@ days:
             related_to_next: "1"
           - title: "Slides - Part 2"
             url: "/assets/slides_latam/scitinyml_latam-intro_dl_part_2.pdf"
+            local: "1"
         #   - title: "Video"
         #     url: "TBD"
 
