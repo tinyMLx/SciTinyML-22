@@ -82,9 +82,12 @@ days:
             related_to_next: "1"
           - title: "Regression.ipynb"
             url: "/assets/slides_latam/1-Regression.ipynb"
+            local: "1"
             related_to_next: "1"
           - title: "MNIST_NN.ipynb"
             url: "/assets/slides_latam/2-MNIST_NN.ipynb"
+            local: "1"
+          #   related_to_next: "1"
           # - title: "Video"
           #   url: "TBD"
 
