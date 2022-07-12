@@ -151,13 +151,13 @@ days:
         affiliation:
           name: "Centro Atómico Bariloche"
           website: "https://fisica.cab.cnea.gov.ar/fisicamedica/"
-        # links:
+        links:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+          - title: "Video"
+            url: "https://youtu.be/X8bxtJnGsEE"
   
   - number: "3"
     dayOfWeek: "Wednesday"
