@@ -124,10 +124,10 @@ days:
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Edge_Impulse_101.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
