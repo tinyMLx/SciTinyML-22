@@ -215,9 +215,9 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Image_Classification_Hands-On.pdf"
         #     local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
