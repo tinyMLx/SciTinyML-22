@@ -230,13 +230,13 @@ days:
         affiliation2:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
-        # links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+          - title: "Video"
+            url: "https://youtu.be/MYuc3QISquw"
       - name: "Mercy Torres"
         # website: "TBD"
         affiliation:
@@ -267,13 +267,13 @@ days:
         affiliation:
           name: "Instituto Federal de São Paulo - IFSP"
           website: "https://www.ifsp.edu.br/"
-        # links:
+       links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+         - title: "Video"
+            url: "https://youtu.be/yroVNnafp0w"
       - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         name2: "TBD"
