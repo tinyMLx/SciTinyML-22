@@ -274,9 +274,9 @@ days:
         #     related_to_next: "1"
          - title: "Video"
             url: "https://youtu.be/yroVNnafp0w"
-      - name: "Jesús Alfonso López Sotelo"
-        website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
-        name2: "TBD"
+      - name: "Juan Camilo Giraldo Londoño"
+        #  website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
+        name2: "Karen Sofia Bustamante Villota"
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
@@ -285,8 +285,8 @@ days:
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+          - title: "Video"
+            url: "https://youtu.be/zbZuXWQ7fzY"
 
   - number: "4"
     dayOfWeek: "Thursday"
