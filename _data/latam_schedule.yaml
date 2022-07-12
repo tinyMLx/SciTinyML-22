@@ -115,10 +115,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/welcome_day2.pdf"
-        #     local: "1"
+       links:
+         - title: "Slides"
+           url: "/assets/slides_latam/welcome_day2.pdf"
+           local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
