@@ -115,10 +115,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-       links:
-         - title: "Slides"
-           url: "/assets/slides_latam/welcome_day2.pdf"
-           local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/welcome_day2.pdf"
+            local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -142,8 +142,8 @@ days:
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-         - title: "Video"
-             url: "https://youtu.be/rTcwxhD6fbA"
+          - title: "Video"
+            url: "https://youtu.be/rTcwxhD6fbA"
       - name: "Laila Daniela Kazimierski"
         website: "https://www.conicet.gov.ar/new_scp/detalle.php?id=44373&keywords=laila%2Bdaniela%2Bkazimierski&datos_academicos=yes"
         name2: "David Córdova"
@@ -267,12 +267,12 @@ days:
         affiliation:
           name: "Instituto Federal de São Paulo - IFSP"
           website: "https://www.ifsp.edu.br/"
-       links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-         - title: "Video"
+          - title: "Video"
             url: "https://youtu.be/yroVNnafp0w"
       - name: "Juan Camilo Giraldo Londoño"
         #  website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
@@ -280,7 +280,7 @@ days:
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
-        # links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
