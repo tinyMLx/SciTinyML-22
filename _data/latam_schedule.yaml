@@ -131,6 +131,18 @@ days:
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
+      - name: "Jesús Alfonso López Sotelo"
+        website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
+        affiliation:
+          name: "Universidad Autónoma de Occidente"
+          website: "https://www.uao.edu.co/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Deteccion_Movimiento_Hands_On.pdf"
+            local: "1"
+        #     related_to_next: "1"
+        #   - title: "Video"
+        #     url: "TBD"
       - name: "Juan Camilo Giraldo Londoño"
         #website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         name2: "Karen Sofia Bustamante Villota"
