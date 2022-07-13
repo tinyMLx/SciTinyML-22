@@ -341,13 +341,13 @@ days:
         affiliation:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
-        # links:
+        links:
         #   - title: "Slides"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+        - title: "Video"
+           url: "https://youtu.be/fFYP_VLS23U"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -365,25 +365,25 @@ days:
         affiliation:
           name: "Instituto Federal de São Paulo - IFSP"
           website: "https://www.ifsp.edu.br/"
-        # links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+          - title: "Video"
+            url: "https://youtu.be/akk9QMCsUqY"
       - name: "Ivan Lucas Arandes"
         # website: "TBD"
         affiliation:
           name: "Instituto Federal de São Paulo - IFSP"
           website: "https://www.ifsp.edu.br/"
-        # links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+         - title: "Video"
+            url: "https://youtu.be/TlExhBNbT-8"
 
   - number: "5"
     dayOfWeek: "Friday"
