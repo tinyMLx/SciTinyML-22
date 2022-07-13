@@ -339,15 +339,15 @@ days:
         affiliation:
           name: "Escuela Superior Politécnica del Litoral"
           website: "https://www.espol.edu.ec"
-       links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        - title: "video ESPOL 1"
-           url: "https://youtu.be/_2C0sPufQN4"
-        - title: "video ESPOL 2"
-           url: "https://youtu.be/wYY3VrJIyEE"
+          - title: "video ESPOL 1"
+            url: "https://youtu.be/_2C0sPufQN4"
+          - title: "video ESPOL 2"
+            url: "https://youtu.be/wYY3VrJIyEE"
       - name: "Diego Méndez Chaves"
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
@@ -358,8 +358,8 @@ days:
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        - title: "Video"
-           url: "https://youtu.be/fFYP_VLS23U"
+          - title: "Video"
+            url: "https://youtu.be/fFYP_VLS23U"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -394,7 +394,7 @@ days:
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-         - title: "Video"
+          - title: "Video"
             url: "https://youtu.be/TlExhBNbT-8"
 
   - number: "5"
