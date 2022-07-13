@@ -237,18 +237,18 @@ days:
         #     related_to_next: "1"
           - title: "Video"
             url: "https://youtu.be/MYuc3QISquw"
-      - name: "Mercy Torres"
-        # website: "TBD"
+      - name: "José Antonio Bagur Nájera"
+        website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
-        # links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+          - title: "Video"
+            url: "https://youtu.be/WcjOXgQbJkU"
       - name: "Marcelo Pias"
         website: "http://www.c3.furg.br/equipe.php#"
         name2: "Bruna Guterres and Lucas Caetano"
