@@ -252,16 +252,17 @@ days:
       - name: "Marcelo Pias"
         website: "http://www.c3.furg.br/equipe.php#"
         name2: "Bruna Guterres"
+        name3: "Lucas Caetano"
         affiliation:
           name: "Federal University of Rio Grande - FURG"
           website: "http://www.c3.furg.br/"
-        # links:
+        links:
         #   - title: "Slides as PDF"
         #     url: "/assets/slides_latam/TBD.pdf"
         #     local: "1"
         #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD"
+          - title: "Video"
+            url: "https://youtu.be/yk9Eet96D28"
       - name: "G. França"
         # website: "TBD"
         affiliation:
