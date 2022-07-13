@@ -189,10 +189,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/Welcome_Day3.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Welcome_Day3.pdf"
+            local: "1"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation2:
