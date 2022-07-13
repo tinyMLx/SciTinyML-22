@@ -201,13 +201,13 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-        # links:
-        #   - title: "Slides as PDF"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
-        #   - title: "as Google Slides"
-        #     url: "TBD"
+        links:
+          - title: "Slides as PDF"
+            url: "/assets/slides_latam/Plancher_Intro_Computer_Vision.pdf"
+            local: "1"
+            related_to_next: "1"
+          - title: "as Google Slides"
+            url: "https://docs.google.com/presentation/d/1NZWmRZCn67dVUSU4H32-lRaqy3nvM-8XVCaFSDQTKh8/"
         #   - title: "Video"
         #     url: "TBD"
       - name: "Marcelo Rovai"
