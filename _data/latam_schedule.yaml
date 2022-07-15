@@ -459,7 +459,7 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides_latam/Importancia_EticaIA.pdf"
-        #     local: "1"
+            local: "1"
         #   - title: "Video"
         #     url: "TBD"
       - name: "Chronic Obstructive Pulmonary Disease (COPD) Detection"
