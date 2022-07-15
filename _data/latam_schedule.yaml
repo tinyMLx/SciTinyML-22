@@ -423,8 +423,11 @@ days:
           name: "ICTP"
           website: "https://www.ictp.it/"
         links:
-          - title: "Slides"
+          - title: "Open Slides"
             url: "/assets/slides_latam/Welcome_Day5.pdf"
+            local: "1"
+         - title: "Closing Slides"
+            url: "/assets/slides_latam/Closing_ICTP_Workshop.pdf"
             local: "1"
       - name: "Shawn Hymel"
         website: "https://www.linkedin.com/in/shawnhymel"
