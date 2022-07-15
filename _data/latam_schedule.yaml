@@ -150,10 +150,10 @@ days:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
         links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
+          - title: "Code"
+            url: "/assets/slides_latam/ProyectoMovimiento.zip"
+            local: "1"
+            related_to_next: "1"
           - title: "Video"
             url: "https://youtu.be/rTcwxhD6fbA"
       - name: "Laila Daniela Kazimierski"
@@ -434,10 +434,10 @@ days:
         affiliation:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Constrained_Object_Detection_on_Microcontrollers_with_FOMO.pdf"
+            local: "1"
         #   - title: "Video"
         #     url: "TBD"
       - name: "Sebastian Romero"
@@ -456,9 +456,9 @@ days:
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Importancia_EticaIA.pdf"
         #     local: "1"
         #   - title: "Video"
         #     url: "TBD"
