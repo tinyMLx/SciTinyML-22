@@ -446,9 +446,9 @@ days:
           name: "Arduino"
           website: "https://www.arduino.cc/pro"
         links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
+        - title: "Slides"
+          url: "/assets/slides_latam/Sebastian_Romero_Predictive Maintenance.pdf"
+          local: "1"
         - title: "Video"
           url: "https://youtu.be/8yPHJt8WpAg"
       - name: "Jesús Alfonso López Sotelo"
