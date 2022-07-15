@@ -461,4 +461,16 @@ days:
         #     local: "1"
         #   - title: "Video"
         #     url: "TBD"
-    
+      - name: "UNIFEI - COPD Detection"
+        links:
+        - title: "Video"
+          url: "https://youtu.be/q4NmYv3SIsg"
+      - name: "UVG - Proyecto Bitmec"
+        links:
+        - title: "Video"
+          url: "https://youtu.be/cZHTxYKFBPQ"
+      - name: "ESPOL - Preventive Maintenance"
+        links:
+        - title: "Video"
+          url: "https://www.youtube.com/watch?v=hpFaSADrAWA"
+     
