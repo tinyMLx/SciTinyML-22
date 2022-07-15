@@ -331,10 +331,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/Welcome_Day4.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Welcome_Day4.pdf"
+            local: "1"
       - name: "Ronald Criollo"
         # website: "TBD"
         affiliation:
@@ -422,13 +422,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/welcome.pdf"
-        #     local: "1"
-        #     related_to_next: "1"
-        #   - title: "Video"
-        #     url: "TBD "
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Welcome_Day5.pdf"
+            local: "1"
       - name: "Shawn Hymel"
         website: "https://www.linkedin.com/in/shawnhymel"
         affiliation:
