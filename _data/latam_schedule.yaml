@@ -423,10 +423,10 @@ days:
           name: "ICTP"
           website: "https://www.ictp.it/"
         links:
-         - title: "Open Slides"
+          - title: "Opening Slides"
             url: "/assets/slides_latam/Welcome_Day5.pdf"
             local: "1"
-         - title: "Closing Slides"
+          - title: "Closing Slides"
             url: "/assets/slides_latam/Closing_ICTP_Workshop.pdf"
             local: "1"
       - name: "Shawn Hymel"
@@ -446,11 +446,11 @@ days:
           name: "Arduino"
           website: "https://www.arduino.cc/pro"
         links:
-        - title: "Slides"
-          url: "/assets/slides_latam/Sebastian_Romero_Predictive Maintenance.pdf"
-          local: "1"
-        - title: "Video"
-          url: "https://youtu.be/8yPHJt8WpAg"
+          - title: "Slides"
+            url: "/assets/slides_latam/Sebastian_Romero_Predictive Maintenance.pdf"
+            local: "1"
+          - title: "Video"
+            url: "https://youtu.be/8yPHJt8WpAg"
       - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         affiliation:
@@ -466,18 +466,18 @@ days:
         affiliation:
           name: "UNIFEI"
         links:
-        - title: "Video"
-          url: "https://youtu.be/q4NmYv3SIsg"
+          - title: "Video"
+            url: "https://youtu.be/q4NmYv3SIsg"
       - name: "Proyecto Bitmec"
         affiliation:
           name: "UVG"
         links:
-        - title: "Video"
-          url: "https://youtu.be/cZHTxYKFBPQ"
+          - title: "Video"
+            url: "https://youtu.be/cZHTxYKFBPQ"
       - name: "Preventive Maintenance"
         affiliation:
           name: "ESPOL"
         links:
-        - title: "Video"
-          url: "https://www.youtube.com/watch?v=hpFaSADrAWA"
+          - title: "Video"
+            url: "https://www.youtube.com/watch?v=hpFaSADrAWA"
      
