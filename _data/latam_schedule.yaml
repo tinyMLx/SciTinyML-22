@@ -461,15 +461,21 @@ days:
         #     local: "1"
         #   - title: "Video"
         #     url: "TBD"
-      - name: "UNIFEI - COPD Detection"
+      - name: "Chronic Obstructive Pulmonary Disease (COPD) Detection"
+        affiliation:
+          name: "UNIFEI"
         links:
         - title: "Video"
           url: "https://youtu.be/q4NmYv3SIsg"
-      - name: "UVG - Proyecto Bitmec"
+      - name: "Proyecto Bitmec"
+        affiliation:
+          name: "UVG"
         links:
         - title: "Video"
           url: "https://youtu.be/cZHTxYKFBPQ"
-      - name: "ESPOL - Preventive Maintenance"
+      - name: "Preventive Maintenance"
+        affiliation:
+          name: "ESPOL"
         links:
         - title: "Video"
           url: "https://www.youtube.com/watch?v=hpFaSADrAWA"
