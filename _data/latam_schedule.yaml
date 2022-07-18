@@ -366,10 +366,10 @@ days:
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/ "
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides_latam/TBD.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides_latam/Speech_Keyword_Spotting.pdf"
+            local: "1"
         #     related_to_next: "1"
         #   - title: "Video"
         #     url: "TBD"
@@ -468,6 +468,9 @@ days:
         links:
           - title: "Video"
             url: "https://youtu.be/q4NmYv3SIsg"
+            related_to_next: "1"
+          - title: "Code"
+            url: https://github.com/Rafael-CP/IESTI01-Final-Project"
       - name: "Proyecto Bitmec"
         affiliation:
           name: "UVG"
